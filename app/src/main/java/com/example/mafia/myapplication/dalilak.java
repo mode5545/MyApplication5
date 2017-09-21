@@ -6,7 +6,7 @@ import android.os.Bundle;
 public class dalilak extends AppCompatActivity {
 
     @Override
-    protected void onCreate(Bundle savedInstanceState,int x) {
+    protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_dalilak);
     }
